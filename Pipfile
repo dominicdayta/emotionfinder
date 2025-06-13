@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 opencv-python = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 

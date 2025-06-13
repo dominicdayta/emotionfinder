@@ -11,6 +11,7 @@ matplotlib = "*"
 scikit-learn = "*"
 torch = "*"
 torchvision = "*"
+mlflow = "*"
 
 [dev-packages]
 

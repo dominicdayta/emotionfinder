@@ -226,7 +226,7 @@ if __name__ == "__main__":
                 "num_classes": 7,
                 "learning_rate": 0.001,
                 "batch_size": 32,
-                "num_epochs": 10000,
+                "epochs": 500,
                 "img_size": 48,
                 "random_seed": 42
             }
@@ -238,9 +238,33 @@ if __name__ == "__main__":
                 "num_classes": 7,
                 "learning_rate": 0.001,
                 "batch_size": 32,
-                "num_epochs": 10000,
+                "epochs": 500,
                 "img_size": 48,
                 "random_seed": 123
+            }
+        },
+        {
+            "run_name": "Run_C",
+            "params": {
+                "train_csv_path": "../data/fer2013/fer2013_training_onehot.csv",
+                "num_classes": 7,
+                "learning_rate": 0.001,
+                "batch_size": 32,
+                "epochs": 500,
+                "img_size": 48,
+                "random_seed": 28
+            }
+        },
+        {
+            "run_name": "Run_D",
+            "params": {
+                "train_csv_path": "../data/fer2013/fer2013_training_onehot.csv",
+                "num_classes": 7,
+                "learning_rate": 0.001,
+                "batch_size": 32,
+                "epochs": 500,
+                "img_size": 48,
+                "random_seed": 28
             }
         }
     ]

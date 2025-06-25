@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/03eef42c736f42938639a4dc4317e0f9/artifacts
+end_time: 1749943226411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03eef42c736f42938639a4dc4317e0f9
+run_name: Run_C
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920791408
+status: 3
+tags: []
+user_id: dominic-d
